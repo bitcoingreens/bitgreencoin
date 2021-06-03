@@ -2,6 +2,7 @@ Bitgreencoin integration/staging tree
 ================================
 
 http://www.bitgreencoin.org
+
 http://www.bitgn.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
