@@ -1,9 +1,9 @@
-Building Litecoin
+Building Bitgreencoin
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Bitgreencoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Bitgreencoin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building bitgreencoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Bitgreencoin.

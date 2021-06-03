@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
-        <translation>Sobre Litecoin</translation>
+        <source>About Bitgreencoin</source>
+        <translation>Sobre Bitgreencoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;Bitgreencoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Bitgreencoin&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
+        <source>The Bitgreencoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces Litecoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your Bitgreencoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces Bitgreencoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Litecoin</translation>
+        <source>Sign a message to prove you own a Bitgreencoin address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Bitgreencoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Litecoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified Bitgreencoin address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Bitgreencoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de Litecoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your Bitgreencoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de Bitgreencoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES LITECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITGREENCOINS&lt;/b&gt;!</source>
+        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES BITGREENCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus litecoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>Bitgreencoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitgreencoins from being stolen by malware infecting your computer.</source>
+        <translation>Bitgreencoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus bitgreencoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
-        <translation>Mostra informació sobre Litecoin</translation>
+        <source>Show information about Bitgreencoin</source>
+        <translation>Mostra informació sobre Bitgreencoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviar monedes a una adreça Litecoin</translation>
+        <source>Send coins to a Bitgreencoin address</source>
+        <translation>Enviar monedes a una adreça Bitgreencoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Litecoin</source>
-        <translation>Modificar les opcions de configuració per litecoin</translation>
+        <source>Modify configuration options for Bitgreencoin</source>
+        <translation>Modificar les opcions de configuració per bitgreencoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Bitgreencoin</source>
+        <translation>Bitgreencoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
-        <translation>&amp;Sobre Litecoin</translation>
+        <source>&amp;About Bitgreencoin</source>
+        <translation>&amp;Sobre Bitgreencoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Litecoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Bitgreencoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Bitgreencoin per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Litecoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Bitgreencoin addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Bitgreencoin específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Litecoin client</source>
-        <translation>Client Litecoin</translation>
+        <source>Bitgreencoin client</source>
+        <translation>Client Bitgreencoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa Litecoin</numerusform><numerusform>%n connexions actives a la xarxa Litecoin</numerusform></translation>
+        <source>%n active connection(s) to Bitgreencoin network</source>
+        <translation><numerusform>%n connexió activa a la xarxa Bitgreencoin</numerusform><numerusform>%n connexions actives a la xarxa Bitgreencoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Litecoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Bitgreencoin address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Bitgreencoin invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. Litecoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. Bitgreencoin can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. Bitgreencoin no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Litecoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Bitgreencoin address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Bitgreencoin valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <source>Bitgreencoin-Qt</source>
+        <translation>Bitgreencoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Iniciar automàticament Litecoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start Bitgreencoin after logging in to the system.</source>
+        <translation>Iniciar automàticament Bitgreencoin després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Litecoin on system login</source>
-        <translation>&amp;Iniciar Litecoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start Bitgreencoin on system login</source>
+        <translation>&amp;Iniciar Bitgreencoin al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de Litecoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the Bitgreencoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de Bitgreencoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa Litecoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the Bitgreencoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa Bitgreencoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Litecoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Bitgreencoin.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Bitgreencoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces Litecoin als llistats de transaccions o no.</translation>
+        <source>Whether to show Bitgreencoin addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces Bitgreencoin als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Litecoin.</translation>
+        <source>This setting will take effect after restarting Bitgreencoin.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Bitgreencoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Litecoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitgreencoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Bitgreencoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>No es pot iniciar litecoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start bitgreencoin: click-to-pay handler</source>
+        <translation>No es pot iniciar bitgreencoin: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de Litecoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Litecoin.</translation>
+        <source>Show the Bitgreencoin-Qt help message to get a list with possible Bitgreencoin command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de Bitgreencoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Bitgreencoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Litecoin - Debug window</source>
-        <translation>Litecoin -Finestra de debug</translation>
+        <source>Bitgreencoin - Debug window</source>
+        <translation>Bitgreencoin -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Litecoin Core</source>
-        <translation>Nucli de Litecoin</translation>
+        <source>Bitgreencoin Core</source>
+        <translation>Nucli de Bitgreencoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de Litecoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the Bitgreencoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de Bitgreencoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Litecoin</translation>
+        <source>Welcome to the Bitgreencoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Bitgreencoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Litecoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bitgreencoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Bitgreencoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Litecoin</translation>
+        <source>Sign the message to prove you own this Bitgreencoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Bitgreencoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Litecoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Bitgreencoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Bitgreencoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de Litecoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bitgreencoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Bitgreencoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Litecoin signature</source>
-        <translation>Introduïr una clau Litecoin</translation>
+        <source>Enter Bitgreencoin signature</source>
+        <translation>Introduïr una clau Bitgreencoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Litecoin developers</source>
+        <source>The Bitgreencoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Litecoin version</source>
-        <translation>Versió de Litecoin</translation>
+        <source>Bitgreencoin version</source>
+        <translation>Versió de Bitgreencoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,8 +2188,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
-        <translation>Enviar comanda a -servidor o litecoind</translation>
+        <source>Send command to -server or bitgreencoind</source>
+        <translation>Enviar comanda a -servidor o bitgreencoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2208,13 +2208,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: litecoin.conf)</translation>
+        <source>Specify configuration file (default: bitgreencoin.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: bitgreencoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: litecoind.pid)</translation>
+        <source>Specify pid file (default: bitgreencoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: bitgreencoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2228,8 +2228,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>Escoltar connexions a &lt;port&gt; (per defecte: 9333 o testnet: 19333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 2333 or testnet: 12333)</source>
+        <translation>Escoltar connexions a &lt;port&gt; (per defecte: 2333 o testnet: 12333)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2263,8 +2263,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
-        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 9332 o testnet:19332)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 2332 or testnet: 12332)</source>
+        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 2332 o testnet:12332)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=bitgreencoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Bitgreencoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=litecoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=bitgreencoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Bitgreencoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement Litecoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bitgreencoin is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement Bitgreencoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Litecoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitgreencoin will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Bitgreencoin no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de Litecoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the Bitgreencoin Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de Bitgreencoin per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de Litecoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bitgreencoin</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de Bitgreencoin més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia Litecoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart Bitgreencoin to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia Bitgreencoin per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Litecoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. Bitgreencoin is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Bitgreencoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>
